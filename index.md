@@ -40,7 +40,7 @@ Browse the docs to learn more about how to use this theme. -->
 The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"! -->
 
 {: .highlight}
-I am looking for **self-motivated** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research.
+I am looking for **self-motivated** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research: [yiming.tang@concordia.ca](yiming.tang@concordia.ca).
 <!-- To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs. -->
 
 
