@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Work Experience
-nav_order: 6
+nav_order: 8
 ---
 
 
@@ -9,18 +9,7 @@ nav_order: 6
 
 ----
 
-- **May 2021 - present:**\\
-Postdoctoral Research Fellow, Supervised by Prof. Weiyi Shang\\
-Concordia University, Canada
-
-- **Jan. 2019 - May 2021:**\\
-Adjunct Lecturer\\
-Hunter College - City University of New York, USA
-
-- **Aug. 2017 - May 2021:**\\
-Research Assistant\\
-The Graduate Center - City University of New York, USA
-
-- **Aug. 2018:**\\
-Instructor of Hunter College Cyber Security Summer Camp\\
-Hunter College - City University of New York, USA
+| **May 2021 - present:**<br>Postdoctoral Research Fellow <br> Concordia University, Canada<br> Supervised by Prof. Weiyi Shang| 
+| **Jan. 2019 - May 2021:**<br>Adjunct Lecturer<br>Hunter College - City University of New York, USA | 
+| **Aug. 2017 - May 2021:**<br>Research Assistant<br>The Graduate Center - City University of New York, USA | 
+| **Aug. 2018:**<br>Instructor of Hunter College Cyber Security Summer Camp<br>Hunter College - City University of New York, USA | 
