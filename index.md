@@ -6,12 +6,13 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Yiming Tang (汤一鸣)
+# Yiming Tang 汤一鸣 (she/her)
 {: .fs-9 }
 
-Incoming Assistant Professor at Rochester Institute of Technology
+Incoming Assistant Professor at Rochester Institute of Technology\\
 Postdoctoral Fellow at Concordia University
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
+
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 } -->
@@ -22,7 +23,7 @@ Postdoctoral Fellow at Concordia University
 > This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes. -->
 
 
-I am an incoming assistant professor in the [Department of Software Engineering](https://www.rit.edu/computing/department-software-engineering) at [Rochester Institute of Technology](https://www.rit.edu/), USA, and currently a Horizon Postdoctoral Fellow in the [Department of Computer Science and Software Engineering](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/), Canada. I received my Ph.D. in [Computer Science](https://www.gc.cuny.edu/computer-science) from [City University of New York-Graduate Center](https://www.gc.cuny.edu/), USA. I was the instructor of Hunter College Cyber Security Summer Camp, which was only open to non-CS female undergraduates who were interested in CS. My research areas include software quality, empirical software engineering, and software logging. My research has been published in flagship software engineering research venues such as ICSE, TSE, and EMSE. My work has won the best (distinguished) paper awards at two international software engineering conferences. 
+I am an incoming assistant professor in the [Department of Software Engineering](https://www.rit.edu/computing/department-software-engineering) at [Rochester Institute of Technology](https://www.rit.edu/), USA, and currently a Horizon Postdoctoral Fellow in the [Department of Computer Science and Software Engineering](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/), Canada. I received my Ph.D. in [Computer Science](https://www.gc.cuny.edu/computer-science) from [City University of New York - Graduate Center](https://www.gc.cuny.edu/), USA. I was the instructor of Hunter College Cyber Security Summer Camp, which was only open to non-CS female undergraduates who were interested in CS. My research areas include software quality, empirical software engineering, and software logging. My research has been published in flagship software engineering research venues such as ICSE, TSE, and EMSE. My work has won the best (distinguished) paper awards at two international software engineering conferences. 
 
 
 
@@ -36,13 +37,59 @@ Browse the docs to learn more about how to use this theme. -->
 
 The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"! -->
 
-{: .note }
-I am looking for ***self-motivated*** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research.
+{: .highlight}
+I am looking for **self-motivated** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research.
 <!-- To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs. -->
 
 
 ## News
 
+----
+## Education
+
+- **Aug. 2017 - May 2021:**\\
+Ph.D. in Computer Science, Supervised by Prof. Raffi Khatchadourian\\
+City University of New York - Graduate Center, USA
+
+- **Sep. 2015 - Sep. 2016:**\\
+M.Sc. in Computer Science\\
+The University of Manchester, UK
+
+- **Sep. 2014 - Jun. 2015:**\\
+Study Abroad\\
+University of Leicester, UK
+
+- **Aug. 2011 - Jul. 2015:**\\
+B.Eng. in Software Engineering\\
+Xidian University, China
+
+----
+
+## Work Experience
+
+- **May 2021 - present:**\\
+Postdoctoral Research Fellow, Supervised by Prof. Weiyi Shang\\
+Concordia University, Canada
+
+- **Jan. 2019 - May 2021:**\\
+Adjunct Lecturer\\
+Hunter College - City University of New York, USA
+
+- **Aug. 2017 - May 2021:**\\
+Research Assistant\\
+The Graduate Center - City University of New York, USA
+
+- **Aug. 2018:**\\
+Instructor of Hunter College Cyber Security Summer Camp\\
+Hunter College - City University of New York, USA
+
+----
+
+## Contact
+[Email](mailto:yiming.tang@concordia.ca){: .btn .btn-purple } 
+[Github](https://github.com/yiming-tang-cs){: .btn } 
+[Google Scholar](https://scholar.google.com/citations?user=yQd3GgoAAAAJ){: .btn .btn-purple }
+[Twitter](https://twitter.com/YimingTang7){: .btn }
 
 <!-- 
 ## About the project
