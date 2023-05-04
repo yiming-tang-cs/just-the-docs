@@ -8,7 +8,7 @@ nav_order: 4
 
 ----
 
-## Teaching at City University of New York–Hunter College
+## Teaching at CUNY Hunter College
 
 | Discrete Structures Recitation×3 | Fall 2019|
 
@@ -16,7 +16,7 @@ nav_order: 4
 
 | Introduction to Python (only open to **female** undergraduate students)| Summer 2018 |
 
-## Grader or Teaching Assistant at City University of New York–Hunter College
+## Grader or Teaching Assistant at CUNY Hunter College
 
 | Software Design and Analysis III | Spring 2021 |
 | Software Engineering | Spring 2021 |
