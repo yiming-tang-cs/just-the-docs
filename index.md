@@ -22,7 +22,7 @@ I am an incoming assistant professor in the [Department of Software Engineering]
 
 
 {: .highlight}
-I am looking for **self-motivated** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research: [yiming.tang@concordia.ca](yiming.tang@concordia.ca).
+I am looking for **self-motivated** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research.
 <!-- To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs. -->
 
 
