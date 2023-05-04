@@ -5,7 +5,7 @@ layout: default
 
 # CHANGELOG
 
-All notable user-facing changes to this project are documented in this file.
+<!-- All notable user-facing changes to this project are documented in this file.
 
 {: .highlight }
 The project underwent a major maintenance shift in March 2022.
@@ -1432,4 +1432,4 @@ Major updates:
 - Pulls footer to bottom of the page on mobile (not hidden in nav)
 
 Minor updates:
-- Cleans up h1 typography spacing
+- Cleans up h1 typography spacing -->
