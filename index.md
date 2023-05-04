@@ -15,6 +15,7 @@ Incoming Assistant Professor at Rochester Institute of Technology\\
 Postdoctoral Fellow at Concordia University
 {: .fs-5 .fw-300 }
 
+[Email](mailto:yiming.tang@concordia.ca){: .btn .btn-purple } [Twitter](https://twitter.com/YimingTang7){: .btn }
 
 ---
 
@@ -51,7 +52,7 @@ Xidian University, China -->
 ----
 
 ## Contact
-[Email](mailto:yiming.tang@concordia.ca){: .btn .btn-purple } 
-[Github](https://github.com/yiming-tang-cs){: .btn } 
-[Google Scholar](https://scholar.google.com/citations?user=yQd3GgoAAAAJ){: .btn .btn-purple }
-[Twitter](https://twitter.com/YimingTang7){: .btn }
+- Email: [yiming.tang@concordia.ca](mailto:yiming.tang@concordia.ca)
+- Github: [yiming-tang-cs](https://github.com/yiming-tang-cs)
+- Google Scholar: [Yiming Tang](https://scholar.google.com/citations?user=yQd3GgoAAAAJ)
+- Twitter: [YimingTang7](https://twitter.com/YimingTang7)
